@@ -2,8 +2,8 @@
 Visualization of country wise change in unemployment rates.
 Data is obtained from World Bank
 Links : 
-https://data.worldbank.org/indicator/SL.UEM.TOTL.FE.ZS
-https://data.worldbank.org/indicator/SL.UEM.TOTL.MA.ZS
+- https://data.worldbank.org/indicator/SL.UEM.TOTL.FE.ZS,
+- https://data.worldbank.org/indicator/SL.UEM.TOTL.MA.ZS
 
 This is plotly Chloropeth map which shows how the rate of change in unemployment for each of the countries.
 ![](/newplot.png)
