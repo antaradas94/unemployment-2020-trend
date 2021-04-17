@@ -11,5 +11,5 @@ This is plotly Chloropeth map which shows how the rate of change in unemployment
 The overview of unemployment rates (%) in 2020 for a combined male and female population. 
 It can be observed that the countries which already had higher % of unemployment in 2019 did not show such drastic results in 2020. In short the trend continued.
 However, certain countries specially in the Americas and few countries in middle east reported drastic increase in unemploment rates.
-![](/newplot(1).png)
+![](/newplot(2).png)
 ![](/newplot(1).png)
